@@ -1,1 +1,0 @@
--[AVX512 Matching Engine](./posts/2025-07-18-avx512-matching-engine.md)
